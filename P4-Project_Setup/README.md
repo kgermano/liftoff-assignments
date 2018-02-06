@@ -7,4 +7,4 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
- [Link to my project-Workout Builder with README.md] (https://github.com/kgermano/WorkoutBuilder.git)
+ [Link to my project-Workout Builder with README.md](https://github.com/kgermano/WorkoutBuilder.git)
